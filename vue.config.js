@@ -9,9 +9,9 @@ module.exports = {
     },
   },
 
-  publicPath: process.env.NODE_ENV === "production"
-  ? "/portafolio/"
-  : "/",
+  publicPath: process.env.NODE_ENV === 'production'
+  ? '/portafolio/'
+  : '/',
 
   transpileDependencies: ['vuetify'],
 }
