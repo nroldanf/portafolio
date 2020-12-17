@@ -1,20 +1,23 @@
-name:
+name: CI GitHubPages
 on:
   push:
     branches:
       - master
 jobs:
-  build-deploy:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - run: npm install
-      - run: npm run build
-      - run: npm test
-      - name: Deploy
-        uses: crazy-max/ghaction-github-pages@v1
-        with:
-          target-branch: gh-pages
-          build-dir: build
-        env:
-          GITHUB_TOKEN: 
-        
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v1
+      with:
+        node-version: '10.x'
+    - run: npm install
+    - run: npm run build
+
+    - name: Deploy
+      with:
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        BRANCH: master
+        FOLDER: public
+
