@@ -6,12 +6,12 @@
     "email": "nroldanfajardo@gmail.com",
     "phone": "+573114508724",
     "website": "http://johnsmith.com",
-    "summary": "I am the fucking boss. Hire me.",
+    "summary": "I am a Biomedical Engineer passionate about Biomedical Signal Processing and Digital Image processing. I have a deep interest in software development, mainly in the field of Machine Learning and Deep Learning applied to industry.",
     "location": {
       "address": "",
-      "postalCode": "CA 94115",
+      "postalCode": "",
       "city": "Bogotá",
-      "countryCode": "US",
+      "countryCode": "CO",
       "region": ""
     },
     "profiles": [
@@ -30,30 +30,23 @@
   "work": [
     {
       "company": "Escuela Colombiana de Ingeniería Julio Garavito",
-      "position": "bOSS",
+      "position": "",
       "website": "http://company.com",
       "startDate": "2018-01-01",
+      "summary": "Biomedical Engineer specialized in biomedical image and signal processing"
+    },
+    {
+      "company": "Work.r",
+      "position": "Data Scientist",
+      "website": "http://workr.com.co",
+      "startDate": "2019-06-01",
       "summary": "Lorem ipsum dolor sit amet, eum ex saperet euripidis. Amet consetetur conclusionemque eum id, eros petentium eam cu."
     },
     {
-      "company": "Boston Electronics",
-      "position": "District Manager",
-      "website": "http://company.com",
-      "startDate": "2015-01-01",
-      "summary": "Lorem ipsum dolor sit amet, eum ex saperet euripidis. Amet consetetur conclusionemque eum id, eros petentium eam cu."
-    },
-    {
-      "company": "Batteries&Bulbs",
+      "company": "&Bulbs",
       "position": "Store Manager",
       "website": "http://company.com",
       "startDate": "2012-01-01",
-      "summary": "Lorem ipsum dolor sit amet, eum ex saperet euripidis. Amet consetetur conclusionemque eum id, eros petentium eam cu."
-    },
-    {
-      "company": "State University",
-      "position": "Electrical Engineering intern",
-      "website": "http://company.com",
-      "startDate": "2009-01-01",
       "summary": "Lorem ipsum dolor sit amet, eum ex saperet euripidis. Amet consetetur conclusionemque eum id, eros petentium eam cu."
     }
   ],
