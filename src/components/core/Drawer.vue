@@ -77,10 +77,10 @@
           text: 'Portfolio',
           to: '#what-ive-done',
         },
-        {
-          text: 'Clients',
-          to: '#what-my-clients-say',
-        },
+        // {
+        //   text: 'Clients',
+        //   to: '#what-my-clients-say',
+        // },
         {
           text: 'Contact',
           to: '#lets-talk',

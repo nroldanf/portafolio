@@ -12,10 +12,9 @@
       </core-subheading>
 
       <core-text class="mb-5">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Fusce vel est interdum, pharetra magna ac, facilisis ante.
-        Fusce eu finibus magna. Sest interdum, pharetra magna ac, facilisis ante.
-        Fusce eu finibus magna.
+        Feel free to contact me for freelance projects related to
+        machine learning, data science, backend development
+        cloud based solutions on AWS or Google Cloud Platform.
       </core-text>
 
       <core-subheading class="text-uppercase mb-3">
