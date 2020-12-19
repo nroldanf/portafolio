@@ -87,7 +87,7 @@
         :src="require('@/assets/aws_badge.png')"
         contain
         height="900"
-        style="center: 0; position: absolute; top: 150px;"
+        style="center: 0; position: absolute; top: 100px;"
       />
 
     </v-col>

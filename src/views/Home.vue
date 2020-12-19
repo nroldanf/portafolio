@@ -32,7 +32,7 @@
       WhereIveBeen: () => import('@/views/WhereIveBeen'),
       WhatIKnow: () => import('@/views/WhatIKnow'),
       WhatIveDone: () => import('@/views/WhatIveDone'),
-      WhatMyClientsSay: () => import('@/views/WhatMyClientsSay'),
+      // WhatMyClientsSay: () => import('@/views/WhatMyClientsSay'),
       LetsTalk: () => import('@/views/LetsTalk'),
     },
 

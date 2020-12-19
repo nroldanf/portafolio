@@ -11,7 +11,7 @@
         <v-col cols="auto">
           <blockquote style="max-width: 230px;">
             <p class="subheading font-weight-light font-italic">
-              I have been a Core Contributor to the Vuetify opensource project for 2 years and counting...
+              Download my CV on pdf format to know more about me and my work
             </p>
             <footer class="text-center">
               <v-btn color="primary">
