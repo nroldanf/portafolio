@@ -40,7 +40,7 @@
       "position": "Data Scientist/Machine Learning Engineer",
       "website": "http://workr.com.co",
       "startDate": "2019-06-01",
-      "summary": "Building of ml-based services and backend development for financial and telecommunications companies."
+      "summary": "Building of ml-based services like Chatbots integrated with SOAP and REST services in WhatsApp and Web channels, information extraction of documents, automated technical state of router devices using computer vision, data driven messaging campaigns, recommendations systems and backend development for financial and telecommunications companies."
     }
   ],
   "education": [
@@ -75,6 +75,16 @@
         "Node.js",
         "Java"
       ]
+    },
+    {
+      "name": "DevOps",
+      "level": 4,
+      "keywords": [
+        "Serverless",
+        "Docker",
+        "AWS SAM",
+        "AWS Chalice"
+      ]
     }
   ],
   "interests": [
@@ -93,7 +103,7 @@
     {
       "name": "Machine Learning and Deep Learning",
       "keywords": [
-        ""
+        "Experience with multiple libraries for machine learning and deep learning training using custom and pretrained models (scikit-learning, OpenCV, spaCy, Tensorflow)."
       ]
     }
   ]
