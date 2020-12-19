@@ -83,12 +83,12 @@
         v-text="schema.basics.name"
       />
 
-      <!-- <v-img
-        :src="require('@/assets/john.png')"
+      <v-img
+        :src="require('@/assets/aws_badge.png')"
         contain
         height="900"
-        style="right: 0; position: absolute; top: 300px;"
-      /> -->
+        style="center: 0; position: absolute; top: 150px;"
+      />
 
     </v-col>
   </core-section>
