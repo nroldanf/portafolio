@@ -15,13 +15,13 @@
         >
           <core-text class="mb-0">
             <p v-text="schema.basics.summary" />
-            <div>
+            <!-- <div>
               <v-img
                 :src="require('@/assets/signature.png')"
                 class="ml-auto"
                 width="150"
               />
-            </div>
+            </div> -->
           </core-text>
         </v-col>
 
@@ -46,7 +46,6 @@
                 class="mb-3"
                 v-text="'Phone'"
               />
-              <div v-text="'Discord'" />
             </v-col>
             <v-col
               cols="6"
@@ -54,7 +53,7 @@
             >
               <div
                 class="mb-3"
-                v-text="'United States'"
+                v-text="'Colombia'"
               />
               <div
                 class="mb-3 text-truncate"
@@ -64,7 +63,6 @@
                 class="mb-3"
                 v-text="schema.basics.phone"
               />
-              <div>@j.smith#3992</div>
             </v-col>
           </v-row>
         </v-col>

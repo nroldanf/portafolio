@@ -33,21 +33,14 @@
       "position": "",
       "website": "http://company.com",
       "startDate": "2018-01-01",
-      "summary": "Biomedical Engineer specialized in biomedical image and signal processing"
+      "summary": "Biomedical Engineer specialized in biomedical image and signal processing. Peer tutor of biomedical signal and image processing."
     },
     {
       "company": "Work.r",
-      "position": "Data Scientist",
+      "position": "Data Scientist/Machine Learning Engineer",
       "website": "http://workr.com.co",
       "startDate": "2019-06-01",
-      "summary": "Lorem ipsum dolor sit amet, eum ex saperet euripidis. Amet consetetur conclusionemque eum id, eros petentium eam cu."
-    },
-    {
-      "company": "&Bulbs",
-      "position": "Store Manager",
-      "website": "http://company.com",
-      "startDate": "2012-01-01",
-      "summary": "Lorem ipsum dolor sit amet, eum ex saperet euripidis. Amet consetetur conclusionemque eum id, eros petentium eam cu."
+      "summary": "Building of ml-based services and backend development for financial and telecommunications companies."
     }
   ],
   "education": [
@@ -62,39 +55,6 @@
         "Biomedical Image Processing",
         "Advanced Image Processing",
         "Statistical Signal Processing"
-      ]
-    },
-    {
-      "institution": "Community College",
-      "area": "Completion",
-      "studyType": "Certificate",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "gpa": "3.2",
-      "courses": [
-        "Modern Logo Design"
-      ]
-    },
-    {
-      "institution": "Community College",
-      "area": "Science",
-      "studyType": "Associate",
-      "startDate": "2010-01-01",
-      "endDate": "2012-01-01",
-      "gpa": "3.4",
-      "courses": [
-        "Graphic Design"
-      ]
-    },
-    {
-      "institution": "Community College",
-      "area": "Completion",
-      "studyType": "Certificate",
-      "startDate": "2010-01-01",
-      "endDate": "2010-01-01",
-      "gpa": "3.1",
-      "courses": [
-        "Marketing"
       ]
     }
   ],
@@ -111,6 +71,7 @@
       "name": "Backend Development",
       "level": 4,
       "keywords": [
+        "Python",
         "Node.js",
         "Java"
       ]
@@ -120,19 +81,19 @@
     {
       "name": "AWS",
       "keywords": [
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor. Lorem ipsum dolor sit amet consectetur adipisicing elit, eiusmod tempor. Proin luctus nulla elit, vitae varius massa.Etiam massa sapien, ultricies quis enim at, tempor fringilla metus. Nulla rhoncus enim sed consectetur. Mauris et eros feugiat, tincidunt eget, dictum neque. Maecenas dapibus sodales magna, eget lectus vehicula non."
+        "I have been using AWS extensively focused in the Machine Learning Services (Transcribe, Rekognition, Comprehend, Textract, Personalize, and others), REST API deployments with serverless arquitectures using Lambda, DynamoDB SQS, SNS and others, Sagemaker for labeling, training and deployment Sagemaker built-in algorithms for Object Detection, image classification and Text Classification. Today I hold the AWS Machine Learning Specialty Certification archieved in May of 2020 which certificates the demonstrated ability to build, train, tune, and deploy ML models using the AWS Cloud."
       ]
     },
     {
       "name": "Data Science",
       "keywords": [
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor. Lorem ipsum dolor sit amet consectetur adipisicing elit, eiusmod tempor. Proin luctus nulla elit, vitae varius massa.Etiam massa sapien, ultricies quis enim at, tempor fringilla metus. Nulla rhoncus enim sed consectetur. Mauris et eros feugiat, tincidunt eget, dictum neque. Maecenas dapibus sodales magna, eget lectus vehicula non."
+        "Practical knownledge of methods used for feature selection, dimensionality reduction, feature extraction, imbalanced classes handling. Use of data visualization skills to conduct a better analysis on the data. Manipulation of non-structured data like text and images in way that can be used for an ML algorithm."
       ]
     },
     {
-      "name": "Computer Vision Applications",
+      "name": "Machine Learning and Deep Learning",
       "keywords": [
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor. Lorem ipsum dolor sit amet consectetur adipisicing elit, eiusmod tempor. Proin luctus nulla elit, vitae varius massa.Etiam massa sapien, ultricies quis enim at, tempor fringilla metus. Nulla rhoncus enim sed consectetur. Mauris et eros feugiat, tincidunt eget, dictum neque. Maecenas dapibus sodales magna, eget lectus vehicula non."
+        ""
       ]
     }
   ]
