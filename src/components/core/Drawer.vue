@@ -3,7 +3,7 @@
     v-if="$vuetify.breakpoint.mdAndUp"
     app
     class="text-center"
-    color="#181818"
+    color="#2f2935"
     permanent
   >
     <v-row
