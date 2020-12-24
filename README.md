@@ -1,11 +1,3 @@
-# Vuetify Theme
-Thank you for purchasing the Theme and supporting Vuetify.
+# My Website Portfolio
 
-### Quick Start
-Unzip the `theme-release.zip` file into any directory. Copy your theme of choice and from the cli:
-
-```bash
-cd path/to/project
-yarn # or npm install
-yarn serve # or npm run serve
-```
+Feel free to visit my website to know more about the things that I can do for you, industry experience, current projects and interests.
