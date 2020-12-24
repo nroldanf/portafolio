@@ -14,9 +14,14 @@
               Download my CV on pdf format to know more about me and my work
             </p>
             <footer class="text-center">
-              <v-btn color="primary">
-                download cv
-              </v-btn>
+              <a
+                href='https://drive.google.com/file/d/1IVFC22FYNhdOc4GeTsTlAftIP12yWKel/view?usp=sharing'
+                target='_blank'
+              >
+                <v-btn color="primary">
+                  download cv
+                </v-btn>
+              </a>
             </footer>
           </blockquote>
         </v-col>
