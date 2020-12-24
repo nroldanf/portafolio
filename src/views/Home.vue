@@ -45,5 +45,16 @@
     data: () => ({
       //
     }),
+    mounted () {
+      console.log('algo')
+      const ckeditor = document.createElement('script')
+      ckeditor.setAttribute(
+        'src',
+        'https://cdn.respond.io/webchat/widget/widget.js?cId=db3a926357fb58540970f07432d0ff938f5bc5af3797ff98e7b01459f6f4a14b',
+        // "https://widget.flow.ai/w/NGExOTgwODItMzdiNy00OTExLWJhYmQtYWQ0Yzk3ZGIxNDQ1fDAwMThlZDdkLTQ1YjQtNDQ5OC05ODRhLTU0YzYzZDY2YTEzNw==/flow-webclient-1.1.2.min.js"
+      )
+      document.head.appendChild(ckeditor)
+    },
+
   }
 </script>
