@@ -24,7 +24,7 @@
             Project Details
           </core-subheading>
           <core-text>
-            Implementation of a chatbot for client retention build with flow.ai platform, spaCy and Dialogflow embedded in Bayport webpage and WhatsApp channel, as well as messaging campaign sending with Twilio WhatsApp API and Mailgun API. I'm in charge of all the main development involving chatbot design, backend development, DevOps and manage meets with clients for testing and requirement checking.
+            Modem diagnosis using Computer Vision techniques (color segmentation, connected components and morphological operations), and Deep Learning for Object Detection and Object tracking, as well as Fourier Frequency Analysis to determine the frequency of LED. I was in charge of the full development with Python Programming Language and deployment on AWS.
           </core-text>
 
           <core-subheading>
@@ -41,7 +41,7 @@
                 Client Name
               </v-list-item-title>
               <v-list-item-title class="caption grey--text text--lighten-1 hidden-sm-and-down">
-                Bayport
+                Telefónica Colombia
               </v-list-item-title>
             </v-list-item>
             <v-list-item>
@@ -54,7 +54,7 @@
                 Project Dates
               </v-list-item-title>
               <v-list-item-title class="caption grey--text text--lighten-1 hidden-sm-and-down">
-                June 2020, Current Date
+                May 2020, June 2020
               </v-list-item-title>
             </v-list-item>
             <v-list-item>
@@ -67,7 +67,7 @@
                 Project Category
               </v-list-item-title>
               <v-list-item-title class="caption grey--text text--lighten-1 hidden-sm-and-down">
-                Chatbot, Backend, NLP
+                Computer Vision, Deep Learning, AWS
               </v-list-item-title>
             </v-list-item>
           </v-list>

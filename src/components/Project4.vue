@@ -24,7 +24,7 @@
             Project Details
           </core-subheading>
           <core-text>
-            Implementation of a chatbot for client retention build with flow.ai platform, spaCy and Dialogflow embedded in Bayport webpage and WhatsApp channel, as well as messaging campaign sending with Twilio WhatsApp API and Mailgun API. I'm in charge of all the main development involving chatbot design, backend development, DevOps and manage meets with clients for testing and requirement checking.
+            Relevant information extraction and verification like salary, names and dates extraction of documents presented for an insurance policy aprovement. Between the documents analyzed were the colombian id, RUT and labor certification. AWS Rekognition was used for OCR in conjunction with Regex and Levenshtein distance based comparisons for text analysis.
           </core-text>
 
           <core-subheading>
@@ -41,7 +41,7 @@
                 Client Name
               </v-list-item-title>
               <v-list-item-title class="caption grey--text text--lighten-1 hidden-sm-and-down">
-                Bayport
+                Beneficiar Entidad Cooperativa
               </v-list-item-title>
             </v-list-item>
             <v-list-item>
@@ -54,7 +54,7 @@
                 Project Dates
               </v-list-item-title>
               <v-list-item-title class="caption grey--text text--lighten-1 hidden-sm-and-down">
-                June 2020, Current Date
+                November 2019, December 2020
               </v-list-item-title>
             </v-list-item>
             <v-list-item>
@@ -67,7 +67,7 @@
                 Project Category
               </v-list-item-title>
               <v-list-item-title class="caption grey--text text--lighten-1 hidden-sm-and-down">
-                Chatbot, Backend, NLP
+                AWS, Regex
               </v-list-item-title>
             </v-list-item>
           </v-list>

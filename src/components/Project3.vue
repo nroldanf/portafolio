@@ -24,7 +24,7 @@
             Project Details
           </core-subheading>
           <core-text>
-            Implementation of a chatbot for client retention build with flow.ai platform, spaCy and Dialogflow embedded in Bayport webpage and WhatsApp channel, as well as messaging campaign sending with Twilio WhatsApp API and Mailgun API. I'm in charge of all the main development involving chatbot design, backend development, DevOps and manage meets with clients for testing and requirement checking.
+            Implementation of a chatbot for Questions and Answers (QA) related to automobile insurance on WhatsApp channel using Twilio API, Dialogflow as Chatbot platform and Node.js as programming Language. Also, segmentation of clients for personalized messaging in order to improve debt collection KPI. I was the main developer with another team member (peer programming).
           </core-text>
 
           <core-subheading>
@@ -41,7 +41,7 @@
                 Client Name
               </v-list-item-title>
               <v-list-item-title class="caption grey--text text--lighten-1 hidden-sm-and-down">
-                Bayport
+                Aseguradora Solidaria de Colombia
               </v-list-item-title>
             </v-list-item>
             <v-list-item>
@@ -54,7 +54,7 @@
                 Project Dates
               </v-list-item-title>
               <v-list-item-title class="caption grey--text text--lighten-1 hidden-sm-and-down">
-                June 2020, Current Date
+                January 2020, Current Date
               </v-list-item-title>
             </v-list-item>
             <v-list-item>
@@ -67,7 +67,7 @@
                 Project Category
               </v-list-item-title>
               <v-list-item-title class="caption grey--text text--lighten-1 hidden-sm-and-down">
-                Chatbot, Backend, NLP
+                Chatbot, Machine Learning
               </v-list-item-title>
             </v-list-item>
           </v-list>
