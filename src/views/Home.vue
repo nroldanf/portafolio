@@ -16,7 +16,7 @@
 
       <what-ive-done />
 
-      <what-my-clients-say />
+      <current-projects />
 
       <lets-talk />
     </v-container>
@@ -32,6 +32,7 @@
       WhereIveBeen: () => import('@/views/WhereIveBeen'),
       WhatIKnow: () => import('@/views/WhatIKnow'),
       WhatIveDone: () => import('@/views/WhatIveDone'),
+      CurrentProjects: () => import('@/views/CurrentProjects'),
       // WhatMyClientsSay: () => import('@/views/WhatMyClientsSay'),
       LetsTalk: () => import('@/views/LetsTalk'),
     },
@@ -46,7 +47,6 @@
       //
     }),
     mounted () {
-      console.log('algo')
       const ckeditor = document.createElement('script')
       ckeditor.setAttribute(
         'src',
