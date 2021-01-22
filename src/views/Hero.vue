@@ -1,7 +1,7 @@
 <template>
   <section id="hero">
     <v-img
-      :src="require('@/assets/hero.png')"
+      :src="require('@/assets/hero_styled.jpg')"
       height="100vh"
     >
       <v-row
