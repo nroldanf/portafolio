@@ -2,7 +2,7 @@
   <core-section id="current-projects">
     <abstract-3 />
 
-    <core-heading>Experiments... take a look!</core-heading>
+    <core-heading>Own project in progress</core-heading>
 
     <v-col cols="12">
       <v-carousel
@@ -29,22 +29,6 @@
         </v-carousel-item>
       </v-carousel>
     </v-col>
-    <!-- <v-col cols="12">
-      <v-carousel
-        :cycle="false"
-        :height="650"
-        :show-arrows="false"
-        class="elevation-0"
-        hide-delimiter-background
-      >
-        <v-carousel-item
-          v-for="(project, i) in projects"
-          :key="i"
-        >
-          <project :value="project" />
-        </v-carousel-item>
-      </v-carousel>
-    </v-col> -->
   </core-section>
 </template>
 
