@@ -37,11 +37,10 @@
                 </v-icon>
               </v-list-item-action>
               <v-list-item-title class="mr-2">
-                Github
+                <a href="https://github.com/nroldanf/VoiceVerification">Github</a>
               </v-list-item-title>
             </v-list-item>
           </v-list>
-
         </div>
       </v-col>
       <v-col

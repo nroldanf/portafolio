@@ -2,7 +2,7 @@
   <core-section id="current-projects">
     <abstract-3 />
 
-    <core-heading>Own project in progress</core-heading>
+    <core-heading>Own projects in progress</core-heading>
 
     <v-col cols="12">
       <v-carousel
@@ -60,13 +60,13 @@
     }),
     methods: {
       redirect (ruta) {
-        if (ruta == 1) {
-          window.location.href = "https://nrf-streamlit-portfolio.herokuapp.com/"
+        if (ruta === 1) {
+          window.location.href = 'https://nrf-streamlit-portfolio.herokuapp.com/'
         }
-        if (ruta == 2) {
-          window.location.href = "https://nrf-dash-portfolio.herokuapp.com/"
+        if (ruta === 2) {
+          window.location.href = 'https://nrf-dash-portfolio.herokuapp.com/'
         }
-      }
-    }
+      },
+    },
   }
 </script>
