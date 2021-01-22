@@ -27,22 +27,6 @@
         >
           <project2 :value="project2" />
         </v-carousel-item>
-
-        <v-carousel-item
-          v-for="(project3, i) in project3"
-          :key="i"
-          @click="redirect(3)"
-        >
-          <project3 :value="project3" />
-        </v-carousel-item>
-
-        <v-carousel-item
-          v-for="(project4, i) in project4"
-          :key="i"
-          @click="redirect(4)"
-        >
-          <project4 :value="project4" />
-        </v-carousel-item>
       </v-carousel>
     </v-col>
     <!-- <v-col cols="12">
@@ -90,5 +74,15 @@
         },
       ],
     }),
+    methods: {
+      redirect (ruta) {
+        if (ruta == 1) {
+          window.location.href = "https://nrf-streamlit-portfolio.herokuapp.com/"
+        }
+        if (ruta == 2) {
+          window.location.href = "https://nrf-dash-portfolio.herokuapp.com/"
+        }
+      }
+    }
   }
 </script>
